@@ -6,9 +6,8 @@
 2. Зайдите в веб-интерфейс grafana, используя авторизационные данные, указанные в манифесте docker-compose.
 3. Подключите поднятый вами prometheus, как источник данных.
 4. Решение домашнего задания — скриншот веб-интерфейса grafana со списком подключенных Datasource.
-<p align="center">
-  <img src="./Screenshots/3.png">
-</p>
+
+<img width="1692" height="671" alt="10" src="https://github.com/user-attachments/assets/68b738e9-4ccf-497b-adfd-30ebf8cc9453" />
 
 ## Задание 2
 
@@ -34,21 +33,18 @@ node_filesystem_avail_bytes{device="/dev/vda2", fstype="xfs", instance="nodeexpo
 ```
 
 Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
-<p align="center">
-  <img src="./Screenshots/5.png">
-</p>
+
+<img width="1559" height="896" alt="11" src="https://github.com/user-attachments/assets/f8e60420-ac74-4e58-9e01-b3a10e5e7e1f" />
 
 ## Задание 3
 
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
-<p align="center">
-  <img src="./Screenshots/6.png">
-</p>
+
+<img width="874" height="947" alt="12" src="https://github.com/user-attachments/assets/9c929b48-d342-4cdf-ae5e-9962f2b3cfa9" />
 
 2. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
-<p align="center">
-  <img src="./Screenshots/7.png">
-</p>
+
+<img width="1510" height="838" alt="14" src="https://github.com/user-attachments/assets/92a8c20e-4f23-4b33-8159-83af9fb4a648" />
 
 ## Задание 4
 
