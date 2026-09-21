@@ -54,4 +54,4 @@ node_filesystem_avail_bytes{device="/dev/vda2", fstype="xfs", instance="nodeexpo
 
 1. Сохраните ваш Dashboard. Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.  
 2. В качестве решения задания приведите листинг этого файла.  
-[Dashboard_Export.json] (https://github.com/DorozhkinAS/HW-11-Sys_Grafana-02/blob/main/Dashboard_Export.json)
+[Dashboard_Export.json](https://github.com/DorozhkinAS/HW-11-Sys_Grafana-02/blob/main/Dashboard_Export.json)
